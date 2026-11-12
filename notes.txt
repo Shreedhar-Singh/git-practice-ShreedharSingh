@@ -6,5 +6,3 @@ Git tracks changes in my files.
 Each commit saves a checkpoint.
 
 This line was added on a feature branch.
-
-this line is added to test revert commit.
