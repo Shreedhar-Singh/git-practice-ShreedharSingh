@@ -1,4 +1,4 @@
-I am learning Git and GitHub.
+git helps track project history.
 
 Git tracks changes in my files.
 
