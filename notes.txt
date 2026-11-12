@@ -1,4 +1,4 @@
-I am learning Git and GitHub.
+git makes teamwork easier..
 
 Git tracks changes in my files.
 
